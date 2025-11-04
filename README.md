@@ -18,16 +18,10 @@ We found:
 
 
 ## Citation
-
+```
 @article{hhaque2026,
   title={{Macrophage Reactivity Signature Defines Developmental, Sex, and Disease-Dependent States in the Lung}},
   author={ H M Zabir Haque, Eniko Sajti, Karen Mestan, and Debashis Sahoo},
   journal={{under review}}
-  (under review)
-}
-```journal={{}},
-  pages={##--##},
-  year={2026},
-  publisher={}
 }
 ```
