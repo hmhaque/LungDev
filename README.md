@@ -7,7 +7,7 @@ This repository contains notebooks for a multi-cohort analysis of lung macrophag
 We found:
 - Subset hierarchy: Interstitial macrophages (IM) exhibit higher reactivity than alveolar macrophages (AM) across diverse cohorts and technologies.
 - Development & sex: Macrophage reactivity follows age-dependent trajectories and shows sex-linked differences consistent across platforms.
-- Smoking exposure: Current smoking associates with reduced reactivity (higher C13 scores) 
+- Smoking exposure: Current smoking associates with reduced reactivity (higher C13 scores). 
 
 ## Requirements
 - Python
@@ -19,11 +19,13 @@ We found:
 
 ## Citation
 
-```
 @article{hhaque2026,
   title={{Macrophage Reactivity Signature Defines Developmental, Sex, and Disease-Dependent States in the Lung}},
   author={ H M Zabir Haque, Eniko Sajti, Karen Mestan, and Debashis Sahoo},
-  journal={{}},
+  journal={{under review}}
+  (under review)
+}
+```journal={{}},
   pages={##--##},
   year={2026},
   publisher={}
