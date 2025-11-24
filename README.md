@@ -1,5 +1,4 @@
-# LungDev
-Macrophage Reactivity Signature Defines Developmental, Sex, and Disease-Dependent States in the Lung.
+# Macrophage Reactivity Signature Defines Developmental, Sex, and Disease-Dependent States in the Lung.
 
 ## Summary
 This repository contains notebooks for a multi-cohort analysis of lung macrophage reactivity using the SMaRT framework, with the C13 signature (note: lower C13 score = higher reactivity). We integrate microarray, bulk RNA-seq, and single-cell RNA-seq, from human and mouse lung to quantify how macrophage reactivity varies across development, sex, environmental exposure (smoking), and disease.
