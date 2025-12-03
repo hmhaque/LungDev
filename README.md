@@ -20,7 +20,7 @@ We found:
 ```
 @article{lungDev2026,
   title  = {Macrophage Reactivity Signature Defines Developmental, Sex, and Disease-Dependent States in the Lung},
-  author = {H M Zabir Haque, Betty Pham, Karen K Mestan, and Debashis Sahoo},
+  author = {H M Zabir Haque, Betty Pham, Karen K. Mestan, and Debashis Sahoo},
   note   = {Manuscript under review}
 }
 ```
